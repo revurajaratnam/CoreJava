@@ -5,7 +5,6 @@ public class ConditionsAndDecisions9 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your year: ");
         int num =sc.nextInt();
-        // String ch = sc.next();
      
 
         if(num >18  ){
