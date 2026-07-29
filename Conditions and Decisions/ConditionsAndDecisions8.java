@@ -5,7 +5,6 @@ public class ConditionsAndDecisions8 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the char: ");
         char ch =sc.next().charAt(0);
-        // String ch = sc.next();
      
 
         if(ch >='A'&&ch <='Z'  ){
