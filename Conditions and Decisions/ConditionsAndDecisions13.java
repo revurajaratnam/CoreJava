@@ -1,9 +1,7 @@
-
 import java.util.Scanner;
 
-public class ConditionsAndDecisions11 {
-
-        public static void main(String[] args) {
+public class ConditionsAndDecisions13 {
+     public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
     
             System.out.println("Enter a firsttriangle :");
@@ -13,18 +11,15 @@ public class ConditionsAndDecisions11 {
             System.out.println("Enter a thirdtriangle :");
             int thirdTriangle = sc.nextInt();
     
-            if(firstTriangle==secondTriangle && firstTriangle==thirdTriangle
-               && 
-               secondTriangle==thirdTriangle 
-            ){
-                System.out.println("Euilateral Triangle");
+            if(firstTriangle != secondTriangle || secondTriangle != thirdTriangle
+                || firstTriangle != thirdTriangle ){
+                System.out.println("Scalene Triangle");
             }else{
     
-                System.out.println("Ineuilateral Triangle");
+                System.out.println("Not Scalene Triangle");
                 
             }
     
             sc.close();
         }
-    
 }
