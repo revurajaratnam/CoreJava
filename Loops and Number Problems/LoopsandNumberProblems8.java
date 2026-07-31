@@ -2,15 +2,15 @@ import java.util.Scanner;
 public class LoopsandNumberProblems8 {
     public static  void main(String args []){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number :");
+        System.out.print("Enter a number : ");
         int input  = sc.nextInt();
-        int sum = 0;
+        int result = 1;
         System.out.println();
         for(int i =1; i<=input;i++){
-            sum+=i*input;
+           result = result*i;
         }
-        System.out.println("Factorial : "+ sum);
-        
+        System.out.println("Factorial : "+ result);
+         
     }
 
 }
