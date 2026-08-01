@@ -8,7 +8,9 @@ public class LoopsandNumberProblems16 {
         int perfect = 0;
         int i = 1;
         while(i<input){
-
+            if(perfect<0){
+                
+            }
            
             i++;
         }
