@@ -9,7 +9,7 @@ public class LoopsandNumberProblems16 {
         int i = 1;
         while(i<input){
             if(perfect<0){
-                System.out.println("Hello");
+                System.out.println("");
             }
            
             i++;
