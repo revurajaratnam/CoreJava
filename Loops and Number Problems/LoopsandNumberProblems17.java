@@ -9,7 +9,7 @@ public class LoopsandNumberProblems17 {
         int i =0;
         while (i<input) {
             System.out.println(i);
-            i+=1;
+            i++;
         }
         System.out.println("Above loop iteration is completed now..!");
     }
