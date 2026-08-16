@@ -6,6 +6,6 @@ public class LoopsandNumberProblems18 {
             System.out.println(i);
             i++;
         }
-        System.out.println("");
+        System.out.println("            ");
     }
 }
