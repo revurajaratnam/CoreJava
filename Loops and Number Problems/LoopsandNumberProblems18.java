@@ -7,5 +7,7 @@ public class LoopsandNumberProblems18 {
             i++;
         }
         System.out.println("            ");
+        System.out.println("            ");
+
     }
 }
