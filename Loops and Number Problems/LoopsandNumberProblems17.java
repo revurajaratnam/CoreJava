@@ -6,11 +6,6 @@ public class LoopsandNumberProblems17 {
         System.out.println("Enter a number: ");
         int input = sc.nextInt();
 
-        int i =0;
-        while (i<input) {
-            System.out.println(i);
-            i++;
-        }
-        System.out.println("Above loop iteration is completed now..!");
+       
     }
 }
