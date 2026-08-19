@@ -3,7 +3,8 @@ public class LoopsandNumberProblems18 {
         System.out.println("Added new statement");
         int i =0;
        while(i <10){
-        hello
+        System.out.println(i);
+        i++;
        }
 
     }
