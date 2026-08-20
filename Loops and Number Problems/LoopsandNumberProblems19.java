@@ -1,4 +1,4 @@
-public class LoopsandNumberProblems18 {
+public class LoopsandNumberProblems19 {
     public static void main(String[] args) {
         System.out.println("Added new statement");
         int i =0;
