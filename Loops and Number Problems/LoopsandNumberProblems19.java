@@ -3,7 +3,7 @@ public class LoopsandNumberProblems19 {
     
     int i =0;
      while(i<=10){
-        
+        System.out.println("while loop is running :" + i);
         i++;
      }
        
