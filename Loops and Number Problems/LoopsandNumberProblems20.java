@@ -4,7 +4,7 @@ public class LoopsandNumberProblems20 {
         for(int i =1 ; i <= 15 ;i++){
             System.out.println(i);
         }
-        System.out.println();
+        System.out.println("loop is completed.");
 
     }
 }
