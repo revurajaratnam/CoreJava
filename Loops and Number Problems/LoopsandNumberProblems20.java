@@ -7,6 +7,7 @@ public class LoopsandNumberProblems20 {
         System.out.println("loop is completed.");
         int j = 1;
          while(j<=10){
+            System.out.println(j);
             j++;
          }
 
