@@ -6,7 +6,7 @@ public class LoopsandNumberProblems20 {
             System.out.println(i);
             i++;
         }
-        System.out.println("");
+        
 
 
 
