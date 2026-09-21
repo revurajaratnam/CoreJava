@@ -4,7 +4,7 @@ public class LoopsandNumberProblems21 {
       
         System.out.println("");
         System.err.println();
-
+        
 
 
     }
