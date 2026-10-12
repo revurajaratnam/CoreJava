@@ -6,8 +6,7 @@ public class LoopsandNumberProblems23 {
      for(int result : arr){
       System.out.println(result);
      }
-     System.out.println();
-     System.out.println();
+   
 
 
 
