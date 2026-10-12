@@ -7,6 +7,8 @@ public class LoopsandNumberProblems23 {
       System.out.println(result);
      }
      System.out.println();
+     System.out.println();
+
 
 
     }
