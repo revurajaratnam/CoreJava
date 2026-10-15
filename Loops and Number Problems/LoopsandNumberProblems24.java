@@ -13,6 +13,8 @@ public class LoopsandNumberProblems24 {
             System.out.println(key);
         }
         keys.clear();
+       
+        System.out.println();
         System.out.println(keys);
 
 
