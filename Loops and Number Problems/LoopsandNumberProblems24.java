@@ -12,6 +12,8 @@ public class LoopsandNumberProblems24 {
         for(Integer key :keys.values() ){
             System.out.println(key);
         }
+        keys.clear();
+        System.out.println(keys);
 
 
 
